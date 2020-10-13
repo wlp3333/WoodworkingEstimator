@@ -1,0 +1,14 @@
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Release\WoodworkingEstimator.exe.config
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Release\WoodworkingEstimator.exe
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Release\WoodworkingEstimator.pdb
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Release\WoodworkingEstimator.xml
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.vbprojAssemblyReference.cache
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.Form1.resources
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.Frm_Settings.resources
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.Frm_SinglePiece.resources
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.Resources.resources
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.vbproj.GenerateResource.cache
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.vbproj.CoreCompileInputs.cache
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.exe
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.xml
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Release\WoodworkingEstimator.pdb

@@ -12,3 +12,7 @@ C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Debu
 C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Debug\WoodworkingEstimator.pdb
 C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Debug\WoodworkingEstimator.Frm_SinglePiece.resources
 C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Debug\WoodworkingEstimator.exe.config
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Debug\WoodworkingEstimator.exe.manifest
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\bin\Debug\WoodworkingEstimator.application
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Debug\WoodworkingEstimator.exe.manifest
+C:\Users\william\source\repos\WoodworkingEstimator\WoodworkingEstimator\obj\Debug\WoodworkingEstimator.application
